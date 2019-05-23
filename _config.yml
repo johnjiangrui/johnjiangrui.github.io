@@ -30,10 +30,6 @@ plugins:
 nav:
  - name: "About"
    link: "/blog/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
